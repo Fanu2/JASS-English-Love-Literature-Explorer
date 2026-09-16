@@ -1,3 +1,5 @@
+<img width="1862" height="1006" alt="image" src="https://github.com/user-attachments/assets/b23df6ed-9d04-4847-a04d-a91d02c91f45" />
+
 # JASS English Love Literature Explorer
 
 **Version 2.0**
