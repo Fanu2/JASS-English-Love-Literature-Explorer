@@ -1,3 +1,5 @@
+<img width="1910" height="1002" alt="image" src="https://github.com/user-attachments/assets/0f67cb82-31ba-49b5-bdaa-c051fd8a37e4" />
+
 # JASS English Love Literature Explorer v2.5
 
 A desktop literature exploration and creative-writing companion built with **Python + PySide6**.
